@@ -1,0 +1,18 @@
+SMAP
+viewmovies_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewmovies.jsp
+viewmovies.jsp
+*L
+5,63:52
+67,5:115
+71,3:120
+74,2:123,3
+76,5:129
+81:134,6
+82,9:140
+90,7:149
+96,14:156
+*E
